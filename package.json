@@ -2,7 +2,7 @@
   "name": "n8n",
   "version": "0.210.2",
   "private": true,
-  "homepage": "https://n8n.io",
+  "homepage": "https://n8n.io/",
   "engines": {
     "node": ">=16.9",
     "pnpm": ">=7.18"
